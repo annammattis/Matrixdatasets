@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 // js program to multiply two square matrices.
 
 const N = 3;
